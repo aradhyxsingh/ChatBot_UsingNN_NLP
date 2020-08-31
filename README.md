@@ -10,3 +10,6 @@ We will simply use pip to install the following:
 - tflearn
 
 Simply go to CMD and type: pip install "package name". Where you will replace "package_name" with all of the entries listed above.
+
+## Training Data
+Now it's time to understand what kind of data we will need to provide our chatbot with. Since this is a simple chatbot we don't need to download any massive datasets. We will just use data that we write ourselves. To follow along with the tutorial properly you will need to create a .JSON file that contains the same format as the one seen below. I've called my file "chatbot.json".
