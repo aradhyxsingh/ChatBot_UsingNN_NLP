@@ -8,4 +8,5 @@ We will simply use pip to install the following:
 - nltk
 - tensorflow
 - tflearn
+
 Simply go to CMD and type: pip install "package name". Where you will replace "package_name" with all of the entries listed above.
