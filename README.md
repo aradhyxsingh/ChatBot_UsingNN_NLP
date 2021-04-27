@@ -25,5 +25,8 @@ Now it's time to understand what kind of data we will need to provide our chatbo
 - Making Predictions	
 
 #### *Steps to run the project are clearly mentioned in the .ipynb file*
+#### Bakery.json
+##### A new file bakery.json has been created so as to use the chatbot for any bakery:
+- To use the bakery.json fie just change the name of the cell containing chatbot.json to bakery.json and use *The bakery* chatbot.
 #### *Link to .json file:- [Click Here](https://drive.google.com/file/d/1XuVUIM2-DWA5IgxoSllJ7gx3kNHF6iV3/view?usp=sharing)*
 
