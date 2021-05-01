@@ -24,6 +24,12 @@
          "responses": ["We sell chocolate chip cookies for $2!", "Cookies are on the menu!"],
          "context_set": ""
         },
+        {"tag": "address",
+         "patterns": ["What is your address", "Where are you located", "How to reach you"],
+         "responses": ["We are located at 21 Bakers street New York! You are Welcomed"],
+         "context_set": ""
+        },
+        
         {"tag": "hours",
          "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
          "responses": ["We are open 7am-4pm Monday-Friday!"],
