@@ -29,6 +29,11 @@
          "responses": ["We are located at 21 Bakers street New York! You are Welcomed"],
          "context_set": ""
         },
+        {"tag": "delivery",
+         "patterns": ["Do you guys have the home delivery option", "Do you home deliver", "I want to get it delivered to my house"],
+         "responses": ["Yes we deliver fresh baked cookies and much mmore at your doorstep please provide your address while buying cookies from our website www.cookies.com"],
+         "context_set": ""
+        },
         
         {"tag": "hours",
          "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
